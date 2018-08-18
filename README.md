@@ -7,4 +7,4 @@ Cande (**C**ollection of **an**omaly **de**tection papers)
 
 ## Top Conference Papers
 
-* TDO
+* Isolation-Based Anomaly Detection. F.T. Liu, K.M. Ting, Z.H. Zhou. TKDD 2012. [[PDF]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf)
