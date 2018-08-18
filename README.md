@@ -3,8 +3,8 @@ Cande (**C**ollection of **an**omaly **de**tection papers)
  
 ## Survey Papers and Books
 
-* Outlier Analysis. Second Edition. Charu C. Aggarwal. IBM T. J. Watson Research Center. 2016. [[PDF]](http://charuaggarwal.net/outlierbook.pdf)
+* Charu C. Aggarwal. ***Outlier Analysis***. Second Edition, 2016. [[PDF]](http://charuaggarwal.net/outlierbook.pdf)
 
 ## Top Conference Papers
 
-* Isolation-Based Anomaly Detection. F.T. Liu, K.M. Ting, Z.H. Zhou. TKDD 2012. [[PDF]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf)
+* F. T. Liu, K. M. Ting, Z. H. Zhou.  ***Isolation-Based Anomaly Detection***.  TKDD 2012. [[PDF]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf) [[中文介绍]](https://zhuanlan.zhihu.com/p/27777266)
